@@ -27,4 +27,4 @@ The prompt is displayed again each time a command has been executed.
 The command lines are simple, no semicolons, no pipes, no redirections, or any other advanced features.
 The command lines are made only of one word.No arguement will be passed to the programs. 5.If an executable is not found the shell prints an error message and displayu the prompt again.
 Credits
-All codes are written by Hendrrica Ogema and Abdul Juma
+All codes are written by Hendrica Ogema and Abdul Juma
